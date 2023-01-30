@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
   <div  font-size="50px"><h1>
-    🥷🥷  ⓦ𝐞𝐋Ⓒό𝓶ε 𝕥σ 𝐌Ⓨ 𝐰𝔬Ｒㄥ∂ 🥷🥷 
+     ⓦ𝐞𝐋Ⓒό𝓶ε 
     </h1>
   </div>
     <img src="https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif" width="500" height ="200"/>
