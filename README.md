@@ -9,13 +9,16 @@
   
 <div id="badges">
   <a href="https://www.linkedin.com/in/lalit-aswal-8a6a9537/">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://steamcommunity.com/id/SKYLTT/">
-    <img src="https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
+    <img src="https://img.shields.io/badge/Steam-orange?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
+  </a>
+  <a href="  https://hashnode.com/@skyLTT">
+    <img src="https://img.shields.io/badge/hashnode-orange?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode Badge"/>
   </a>
   <a href="https://twitter.com/lalitaswal2">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-orange?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 <!--   <img src="https://komarev.com/ghpvc/?username=LalitAswal&style=flat-square&color=blue" alt=""/> -->
 
