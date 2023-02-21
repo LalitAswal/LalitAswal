@@ -14,7 +14,7 @@
   <a href="https://steamcommunity.com/id/SKYLTT/">
     <img src="https://img.shields.io/badge/Steam-orange?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
-  <a href="  https://hashnode.com/@skyLTT">
+  <a href="https://hashnode.com/@skyLTT">
     <img src="https://img.shields.io/badge/hashnode-orange?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode Badge"/>
   </a>
   <a href="https://twitter.com/lalitaswal2">
