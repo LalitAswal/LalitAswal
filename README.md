@@ -56,11 +56,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=LalitAswal&theme=dark&background=000000" />
 </a>
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LalitAswal)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalitAswal&theme=dark&background=000000" />
-</a>
  </div> 
 
 
